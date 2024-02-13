@@ -19,14 +19,5 @@ class Customer < Shop
     end
 end
 
-milk = Product.new("Milk", 3.50)
-eggs = Product.new("Eggs", 1.50)
-
-product_inventory = Shop.new()
-product_inventory.add_product(milk)
-product_inventory.add_product(eggs)
-
-customer = Customer.new()
-customer.purchase("Milk")
 
 end
