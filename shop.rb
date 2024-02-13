@@ -8,7 +8,7 @@ class Shop < Product
   end
 
   def add_product(product)
-    self.product_inventory[product.name] = product.price
+    self.product_inventory[product.name.capitalize] = product.price
   end
 
   def print_product_list()
