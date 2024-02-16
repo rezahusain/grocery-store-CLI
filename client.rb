@@ -58,6 +58,7 @@ customer = Customer.new()
 shop = Shop.new()
 client = Client.new()
 name = client.intro()
+# While the user hasn't exited the shop, continue showing the menu after every action
 while true
   client.menu(customer, shop, name)
 end

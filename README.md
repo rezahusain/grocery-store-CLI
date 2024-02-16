@@ -7,3 +7,5 @@ You'll now notice a variety of different options to select from along with a bud
 The budget amount represents how much money you'll be able to spend while your "browsing" the shop.
 If you for whatever reason would like to reset this amount after purchasing some items just make sure to exit the app and then rerun it.
 As far as the options, they're fairly straightforward. 
+Try it out and have fun! It's still pretty bare bones so don't expect too much :)
+Happy Shopping!
